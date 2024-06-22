@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Apil Sharma </h1>
 
-- 👀 I’m interested in ** Web and App Development 
+- 👀 I’m interested in ** Web  App Development 
 
  - 🌱 I’m currently learning Web Development
    
